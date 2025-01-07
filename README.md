@@ -22,8 +22,8 @@ O repositório é dividido nas seguintes pastas e arquivos:
 - **Domínio 2: Segurança e conformidade**  
   - [x] Compreender o Modelo de responsabilidade compartilhada da AWS
   - [x] Compreender os conceitos de segurança, de governança e de conformidade da nuvem AWS
-  - [x] Identificar os recursos de gerenciamento de acesso da AWS.
-  - [x] Identificar os componentes e os recursos de segurança.
+  - [x] Identificar os recursos de gerenciamento de acesso da AWS
+  - [x] Identificar os componentes e os recursos de segurança
 
 - **Domínio 3: Tecnologia e serviços da nuvem**  
   - [x] Definir métodos de implantação e operação na nuvem AWS
@@ -31,11 +31,9 @@ O repositório é dividido nas seguintes pastas e arquivos:
   - [x] Identificar os serviços computacionais da AWS
   - [x] Identificar os serviços de banco de dados da AWS
   - [x] Identificar os serviços de rede da AWS
-  - [x] Identificar os serviços de armazenamento da AWS.
-  - [x] Identificar serviços de inteligência artificial e de machine
-learning (IA/ML) e serviços de analytics da AWS 
-  - [x] Identificar serviços de outras categorias de serviços dentro
-do escopo da AWS
+  - [x] Identificar os serviços de armazenamento da AWS
+  - [x] Identificar serviços de inteligência artificial e de machine learning (IA/ML) e serviços de analytics da AWS 
+  - [x] Identificar serviços de outras categorias de serviços dentro do escopo da AWS
 
 - **Domínio 4: Cobrança, preços e suporte**  
   - [x] Comparar os modelos de preços da AWS
