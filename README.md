@@ -44,6 +44,7 @@ O repositório é dividido nas seguintes pastas e arquivos:
 
 - Pastas com compilados de resumos no formato ```.md```
 - **```arquivosExemplo.md```**: Resumo dos principais conceitos e tópicos abordados em cada domínio.
+- **```questoesExemplo.md```**: questões dos principais conceitos e tópicos abordados em cada domínio.
 - Pasta de imagens para utilizar ao decorrer das anotações
 
 ## COMO UTILIZAR ESTE REPOSITÓRIO
