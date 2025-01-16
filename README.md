@@ -34,18 +34,12 @@ O repositório é dividido nas seguintes pastas e arquivos:
   - [x] Identificar os serviços de armazenamento da AWS
   - [x] Identificar serviços de inteligência artificial e de machine learning (IA/ML) e serviços de analytics da AWS 
   - [x] Identificar serviços de outras categorias de serviços dentro do escopo da AWS
+  - [x] AWS Well-Architected Framework
 
 - **Domínio 4: Cobrança, preços e suporte**  
   - [x] Comparar os modelos de preços da AWS
   - [x] Compreender os recursos de gerenciamento de cobrança, de orçamento e de custos
   - [x] Identificar os recursos técnicos da AWS e as opções do AWS Support
-
-### Arquivos de Resumo
-
-- Pastas com compilados de resumos no formato ```.md```
-- **```arquivosExemplo.md```**: Resumo dos principais conceitos e tópicos abordados em cada domínio.
-- **```questoesExemplo.md```**: questões dos principais conceitos e tópicos abordados em cada domínio.
-- Pasta de imagens para utilizar ao decorrer das anotações
 
 ## COMO UTILIZAR ESTE REPOSITÓRIO
 
